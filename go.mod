@@ -1,4 +1,4 @@
-module github.com/piusalfred/whatsapp
+module github.com/simobgl/whatsapp
 
 go 1.25.1
 
